@@ -1,8 +1,7 @@
 # Renewable- and Thermal-Aware Hierarchical MARL Workflow Scheduler
 
 Intelligent cloud resource management for **energy optimization in geo-distributed data centers from a renewable-energy perspective**.
-This repository reproduces and extends the hierarchical multi-agent actor-critic scheduler of
-[Jayanetti, Halgamuge & Buyya (IEEE TPDS, 2024)](https://doi.org/10.1109/TPDS.2024.3360448) and adds
+This repository reproduces and extends the hierarchical multi-agent actor-critic scheduler and adds
 (1) real site-specific solar data, (2) workloads grounded in a real cluster trace, and
 (3) a rack-level **thermal-awareness** extension with a controlled ablation.
 
