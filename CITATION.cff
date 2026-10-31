@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Renewable- and Thermal-Aware Hierarchical MARL Workflow Scheduler"
+type: software
+authors:
+  - family-names: Ansari
+    given-names: Mohammad Sepehr
+version: 1.0.0
+license: MIT
+abstract: >
+  Reproduction and extension of the hierarchical multi-agent actor-critic framework of
+  Jayanetti et al. (IEEE TPDS 2024) for renewable-energy-aware workflow scheduling across
+  geo-distributed cloud data centers, with real PVGIS solar data, Alibaba-trace workloads
+  and a rack-level thermal-awareness extension.

@@ -1,0 +1,5 @@
+,Fixed alpha (Phase 3),Dynamic alpha v1 (for reference),Dynamic alpha v2 (for reference),Dynamic alpha v3 (this run)
+energy_per_task_J,521.4025187660516,446.088628,2573.275076,2087.351409713057
+exec_time_per_task_s,0.8800019302732566,0.850321,4.38183,3.625259954014892
+mean_reward_global,-0.47684069312762994,-0.399079,-0.855092,-0.7500103094796373
+deadline_violation_rate,0.2247064253115225,0.19001,0.596431,0.5283341201507186
